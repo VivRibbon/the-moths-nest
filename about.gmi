@@ -1,0 +1,39 @@
+# Clipboard
+The clipboard has a paper pinned to it that contains assorted biographical information and a blurry photograph of a moth.
+
+=> index.gmi Go back
+
+## Who?
+My name's Mo. I'm a transgender programmer, poet, artist, etc. I live in the world and like moths and jellyfish and text. Feel free to shoot me an email at giantsilkmoth at proton dot me.
+
+## What?
+This will function kind of halfway between a blog and personal website. So typical gemini capsule stuff, I suppose. I'll blog, post links about things I like, talk about my creative work, etc.
+
+## Why?
+I've been lately trying to make my relationship with technology more intentional, as well as divest from a lot of super corporate Big Tech stuff. I've ended up in various places and this is one of them.
+
+```
+
+                         ./'.            .'\.
+                         './ '.        .' \.'
+      _.--~~'--.._         './ '.    .' \.'       _..--'~~--._
+    .'            ~~-._      './.'..'.\.'     _.~~            `.
+  .'       ,;:::::;,   ~-._      .--.      _.~   ,;:::::;,      `.
+ '`.      ,;.-'  `-.:;   \|~-._.-::::-._.-~;|/  ,;.-'  `-.;,      `.
+'  `.     ;/  .--.  \;'   '   (::::::::)    `  ,;/  .--.  \:;    .' `.
+' ,;'`.  ,;\  `--'  /;,  //;   ::::::::    ;\\ ;;\  `--'  /;'  .' `:, '
+ `._,;`-. ,;`-.__.-':;'  \\;    ::::::     ;//  ,;`-.__.-':;. '`;,_.'
+    `.,;'`.  `;::::'     )/"    ::::::     '\(    `;:::::;'.'`;.'
+      `.,;'`.                   .::::.                   .'`;.'
+        `.,;'`.               .'::::::.               .-'`;.'
+          `.,;'`-.          .'  :::::: `.          .-'`;..'
+            `-._,;`--.___ .'    ::::::   `.    _.-'`;_.-'
+                `-.____.-'      `::::'     `-.'___.-'
+                 .'.;;::::;,    \.::./   .;;::::;,`.
+               .',::.-""-.::.    \  /   ,::.-""-.::.`.
+              /  ;:: (_)  :;;     \/    .::  (_) ::;  \
+             /   ;:`-.__.-';;      \    ;:`-.__.-';;   \
+            `.`.  `::::::::'      .'     ;::::::::'  .'.'
+              `.`._             .'.               _.'.'
+     jro        `-.;-._______.-'   `-._________.-;.-'
+```

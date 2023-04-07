@@ -1,0 +1,12 @@
+# You enter the moth nest...
+
+The entrance is small, requiring you to get down on hands and knees and crawl through the small hole in the bush. You push through hanging twigs and leaves and come out the other side into a small natural chamber within the linked network of trees the surround you. A single lamp burns near a tree trunk, next to a large easy chair and a bookshelf. On a table in front of the chair is a clipboard and a folder. On the other side of the tree trunk is a display of small glass cases. A tunnel in the dirt ground leads to a cellar.
+
+
+=> /gemlog Bookshelf (Gemlog feed)
+=> journal.gmi Folder (Microblog)
+=> /work Glass Cases (Poetry and Artwork)
+=> /links Cellar (Links and Cool Stuff)
+=> about.gmi Clipboard (About)
+
+=> gemini://astrobotany.mozz.us/public/d96d4c294cfb45bdb97b12b3673e87c8/m1 A plant is growing out of the dirt.

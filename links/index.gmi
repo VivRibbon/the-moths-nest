@@ -1,0 +1,26 @@
+# Cellar
+The cellar is cool, dark, and slightly claustrophobic, lit by an oddly fancy chandelier. A great variety of things of all shapes and sizes fill the space, just waiting for you to dig in.
+
+=> //selenotropic.flounder.online/index.gmi Go back
+
+## Friends of the moth
+=> https://bigstuffedcat.itch.io/ My wife's tabletop games
+=> https://bigstuffedcat.blogspot.com/ My wife's blog
+=> https://www.flickr.com/photos/deealexandria42/ My wife's photography
+=> https://hypatiaphoto.darkroom.com/ My wife's photography prints
+=> https://linktr.ee/theiratlas Atlas' linktree
+=> https://leakyeaves.itch.io/ Edda on itch.io
+=> https://stargazersasha.itch.io/ Sasha on itch.io
+
+## Gemini sites I follow
+=> gemini://republic.circumlunar.space/users/flexibeast/index.gmi Flexibeast
+=> gemini://senders.io/ Senders' Capsule
+=> gemini://idiomdrottning.org Idiomdrottning
+=> gemini://lyk.so Lykso
+=> gemini://gemini.lehmann.cx/cgi-bin/random.php?1 Random Gemini URL
+=> gemini://warmedal.se/~antenna/ Antenna
+
+## Internet Curios
+=> https://wiki.xxiivv.com/site/home.html WikiXXIIVV
+=> http://mjt.org/ The Museum of Jurassic Technology
+=> //funkengine.flounder.online/undergroundarch.gmi The Truth About the Gateway to the Midwest
